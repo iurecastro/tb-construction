@@ -1,18 +1,21 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Header = () => {
   return (
     <header className="bg-white shadow-md sticky top-0 z-50">
       <div className="container mx-auto px-4 py-3 flex justify-between items-center">
-      <div className="text-2xl font-bold text-blue-800"><a href="/">TB Construction</a> <span className="ml-2 text-sm text-gray-600">Floor Sanding & Restoration Experts in London</span> </div>
-      
-       
+        <div className="text-2xl font-bold text-blue-800">
+          <Link to="/" className="hover:text-blue-600">TB Construction</Link>
+          <span className="ml-2 text-sm text-gray-600">Floor Sanding & Restoration Experts in London</span>
+        </div>
+        
         <nav className="hidden md:block">
           <ul className="flex space-x-8">
-            <li><a href="/" className="text-gray-700 hover:text-blue-600 transition">Home</a></li>
-            <li><a href="/about" className="text-gray-700 hover:text-blue-600 transition">About Us</a></li>
-            <li><a href="/services" className="text-gray-700 hover:text-blue-600 transition">Services</a></li>
-            <li><a href="/contact" className="text-gray-700 hover:text-blue-600 transition">Contact Us</a></li>
+            <li><Link to="/" className="text-gray-700 hover:text-blue-600 transition">Home</Link></li>
+            <li><Link to="/about" className="text-gray-700 hover:text-blue-600 transition">About Us</Link></li>
+            <li><Link to="/services" className="text-gray-700 hover:text-blue-600 transition">Services</Link></li>
+            <li><Link to="/contact" className="text-gray-700 hover:text-blue-600 transition">Contact Us</Link></li>
           </ul>
         </nav>
         
