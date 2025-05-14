@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tb-construction/static/css/main.ce458d64.css",
+    "main.js": "/tb-construction/static/js/main.1a1b5a05.js",
+    "static/js/453.3fbda27e.chunk.js": "/tb-construction/static/js/453.3fbda27e.chunk.js",
+    "index.html": "/tb-construction/index.html",
+    "main.ce458d64.css.map": "/tb-construction/static/css/main.ce458d64.css.map",
+    "main.1a1b5a05.js.map": "/tb-construction/static/js/main.1a1b5a05.js.map",
+    "453.3fbda27e.chunk.js.map": "/tb-construction/static/js/453.3fbda27e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce458d64.css",
+    "static/js/main.1a1b5a05.js"
+  ]
+}
