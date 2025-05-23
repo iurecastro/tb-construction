@@ -32,7 +32,7 @@ const services = [
     title: "Wood Floor Oiling",
     description: "Enhance and protect your wooden floors with high-quality, hard-wearing oils that penetrate deep while maintaining the natural look and feel of your wood.",
     icon: "🛢️",
-    image: "https://images.unsplash.com/photo-1565538810643-b5bdb714032a",
+    image: "https://media.istockphoto.com/id/184236206/photo/home-renovation.jpg?s=612x612&w=0&k=20&c=spatWxRZXjCAg4zRSYbWxgPpkPaF9Xga_YykvfUPnxU=",
     features: [
       "Hardwax oil applications",
       "Matte or satin finishes",
@@ -45,7 +45,7 @@ const services = [
     title: "Floorboard Repairs",
     description: "From squeaky floorboards to damaged sections, we fix all types of wooden floor issues, ensuring your floor is both beautiful and structurally sound.",
     icon: "🔧",
-    image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+    image: "https://media.istockphoto.com/id/515219705/photo/old-parquet.jpg?s=612x612&w=0&k=20&c=1wKQ1WxPDYYcD1H8cAqn8oXaI5X_tBa6qm4-S_tV6SQ=",
     features: [
       "Squeak elimination",
       "Board replacement",
@@ -71,7 +71,7 @@ const services = [
     title: "Gap Filling & Staining",
     description: "Eliminate unsightly gaps between floorboards and achieve your desired color with our professional gap filling and staining services.",
     icon: "🎨",
-    image: "https://images.unsplash.com/photo-1600062452557-8c1a6b71d3fa",
+    image: "https://media.istockphoto.com/id/668224496/photo/carpenter-installing-hardwood-floor.jpg?s=612x612&w=0&k=20&c=aecremQGZzUSxuifLn8-S7O2kkqWD5-gBaDjwZP3vLE=",
     features: [
       "Color-matched wood filler",
       "Custom stain blending",

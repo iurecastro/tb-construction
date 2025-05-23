@@ -16,7 +16,7 @@ const ContactForm = () => {
                 </svg>
                 <div>
                   <h3 className="font-semibold">Phone</h3>
-                  <p>+44 07543 583107</p>
+                  <p>+44 0123 456789</p>
                 </div>
               </div>
               
@@ -37,7 +37,7 @@ const ContactForm = () => {
                 </svg>
                 <div>
                   <h3 className="font-semibold">Address</h3>
-                  <p>9 Colville Rd, London N9 7QN</p>
+                  <p>Trafalgar Square, London WC2N 5DN, UK</p>
                 </div>
               </div>
             </div>

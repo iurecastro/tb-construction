@@ -42,7 +42,7 @@ const Footer = () => {
             </div>
             <div>
               <h4 className="font-semibold mb-4">Contact</h4>
-              <p>+44 07543 583107</p>
+              <p>+44 01234 56789</p>
               <p>info@tbconstruction.com</p>
             </div>
           </div>

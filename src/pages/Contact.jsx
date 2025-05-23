@@ -29,7 +29,7 @@ const Contact = () => {
                 <div>
                   <h3 className="text-lg font-semibold text-gray-800">Phone</h3>
                   <p className="text-gray-600">+44 01234 56789</p>
-                  <p className="text-gray-600">+44 07543 583107</p>
+                  <p className="text-gray-600">+44 01234 56789</p>
                 </div>
               </div>
 
@@ -57,7 +57,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold text-gray-800">London Office</h3>
-                  <p className="text-gray-600">9 Colville Rd, London N9 7QN</p>
+                  <p className="text-gray-600">Trafalgar Square, London WC2N 5DN, UK</p>
                   <p className="text-gray-600">United Kingdom</p>
                 </div>
               </div>
@@ -130,7 +130,7 @@ const Contact = () => {
                   type="tel" 
                   id="phone" 
                   className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition"
-                  placeholder="+44 1234 567890"
+                  placeholder="+44 01234 56789"
                 />
               </div>
               
@@ -174,15 +174,15 @@ const Contact = () => {
         <div className="mt-16 bg-white p-6 rounded-lg shadow-md">
           <h2 className="text-2xl font-bold text-gray-800 mb-6">Find Us in London</h2>
           <div className="aspect-w-16 aspect-h-9 rounded-lg overflow-hidden">
-            <iframe 
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2480.674744634002!2d-0.07271268422874538!3d51.55417997964293!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761c9fe1ac8e3d%3A0x9e8e6c7b7b7b7b7b!2s9%20Colville%20Rd%2C%20London%20N9%207QN%2C%20UK!5e0!3m2!1sen!2suk!4v1620000000000!5m2!1sen!2suk" 
-              width="100%" 
-              height="450" 
-              style={{border:0}}
-              allowFullScreen="" 
-              loading="lazy"
-              title="TB Construction Location"
-            ></iframe>
+           <iframe 
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.5494414770346!2d-0.12880968423092252!3d51.50735097963445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604ce3941eb1f%3A0x1a5342c4e8a61a1a!2sTrafalgar%20Square%2C%20London%20WC2N%205DN%2C%20UK!5e0!3m2!1sen!2suk!4v1620000000000!5m2!1sen!2suk" 
+            width="100%" 
+            height="450" 
+            style={{border:0}}
+            allowFullScreen="" 
+            loading="lazy"
+            title="TB Construction Location"
+          ></iframe>
           </div>
         </div>
       </div>
